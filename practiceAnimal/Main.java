@@ -9,7 +9,6 @@ public class Main {
         System.out.println(cat1.getName());
         System.out.println(cat1.age);
 
-
         Dog dog1 = new Dog("pochi", 5, "shiba");
         dog1.bark();
         System.out.println(dog1.getName());

@@ -9,11 +9,11 @@ public abstract class Animal {
         this.age = age;
     }
 
-    void setName(String name){
+    void setName(String name) {
         this.name = name;
     }
 
-    String getName(){
+    String getName() {
         return this.name;
     }
 

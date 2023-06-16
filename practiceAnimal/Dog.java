@@ -6,7 +6,7 @@ public class Dog extends Animal {
     public Dog(String name, int age, String brand) {
         super(name, age);
         this.brand = brand;
-        //TODO Auto-generated constructor stub
+        // TODO Auto-generated constructor stub
     }
 
     void bark() {
